@@ -100,7 +100,7 @@ Plotly & Plotly Dash
 Scikit-learn (for K-Means clustering)
 
 ## Author
-S.Dhavanithi
-MCA Student
-Final Project: EDA on UPI Transaction Dataset
+S.Dhavanithi,
+MCA Student,
+Final Project: EDA on UPI Transaction Dataset.
 
